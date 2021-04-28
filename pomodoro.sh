@@ -10,7 +10,7 @@ echo >> log.txt
 echo `date` | tee -a log.txt
 
 start_message="Started pomodoro  $@  ... wait 25 minutes"
-end_message="Pomodoro action $@ finished" 
+end_message="Pomodoro $@ finished"
 echo "$start_message" | tee -a log.txt
 
 sleep 1500 && notify-send "$end_message" && zenity --warning --text="$end_message" 2>/dev/null
