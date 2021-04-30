@@ -1,146 +1,146 @@
 
 Thu Apr 22 15:03:56 EEST 2021
-Started pomadoro  Read PP Spec #1  ... wait 25 minutes
-Pomadoro action Read PP Spec #1 finished
+Started pomodoro  Read PP Spec #1  ... wait 25 minutes
+Pomodoro action Read PP Spec #1 finished
 
 Thu Apr 22 17:19:26 EEST 2021
-Started pomadoro  Read PP Spec #2  ... wait 25 minutes
-Pomadoro action Read PP Spec #2 finished
+Started pomodoro  Read PP Spec #2  ... wait 25 minutes
+Pomodoro action Read PP Spec #2 finished
 
 
 Thu Apr 22 17:58:58 EEST 2021
-Started pomadoro  Read PP Spec #3  ... wait 25 minutes
-Pomadoro action Read PP Spec #3 finished
+Started pomodoro  Read PP Spec #3  ... wait 25 minutes
+Pomodoro action Read PP Spec #3 finished
 
 
 Thu Apr 22 18:35:58 EEST 2021
-Started pomadoro  Read PP Spec #4  ... wait 25 minutes
-Pomadoro action Read PP Spec #4 finished
+Started pomodoro  Read PP Spec #4  ... wait 25 minutes
+Pomodoro action Read PP Spec #4 finished
 
 
 Thu Apr 22 19:33:19 EEST 2021
-Started pomadoro  Read PP Spec #5  ... wait 25 minutes
-Pomadoro action Read PP Spec #5 finished
+Started pomodoro  Read PP Spec #5  ... wait 25 minutes
+Pomodoro action Read PP Spec #5 finished
 
 Thu Apr 22 19:59:13 EEST 2021
-Started pomadoro  Reg PP Spec #6: registers  ... wait 25 minutes
-Pomadoro action Reg PP Spec #6: registers finished
+Started pomodoro  Reg PP Spec #6: registers  ... wait 25 minutes
+Pomodoro action Reg PP Spec #6: registers finished
 
 Fri Apr 23 00:24:21 EEST 2021
-Started pomadoro  Engwords: 3T finishing translation  ... wait 25 minutes
-Pomadoro action Engwords: 3T finishing translation finished
+Started pomodoro  Engwords: 3T finishing translation  ... wait 25 minutes
+Pomodoro action Engwords: 3T finishing translation finished
 
 Fri Apr 23 01:11:48 EEST 2021
-Started pomadoro  Engwords: 3T finishing translation #2 (only 66 words)  ... wait 25 minutes
-Pomadoro action Engwords: 3T finishing translation #2 (only 66 words) finished
+Started pomodoro  Engwords: 3T finishing translation #2 (only 66 words)  ... wait 25 minutes
+Pomodoro action Engwords: 3T finishing translation #2 (only 66 words) finished
 
 Fri Apr 23 01:52:24 EEST 2021
-Started pomadoro  Engwords: 3T finishing translation #3 (only 30 words)  ... wait 25 minutes
-Pomadoro action Engwords: 3T finishing translation #3 (only 30 words) finished
+Started pomodoro  Engwords: 3T finishing translation #3 (only 30 words)  ... wait 25 minutes
+Pomodoro action Engwords: 3T finishing translation #3 (only 30 words) finished
 
 Fri Apr 23 02:19:34 EEST 2021 !!!<--- 15 minutes only--->!!!
-Started pomadoro  Eng: 3T Sopranos TV shows 2#9  ... wait 25 minutes
-Pomadoro action Eng: 3T Sopranos TV shows 2#9 finished
+Started pomodoro  Eng: 3T Sopranos TV shows 2#9  ... wait 25 minutes
+Pomodoro action Eng: 3T Sopranos TV shows 2#9 finished
 
 Fri Apr 23 14:11:31 EEST 2021
-Started pomadoro  ePort mac learning: NA from ePort # 1  ... wait 25 minutes
-Pomadoro action ePort mac learning: NA from ePort # 1 finished
+Started pomodoro  ePort mac learning: NA from ePort # 1  ... wait 25 minutes
+Pomodoro action ePort mac learning: NA from ePort # 1 finished
 
 Fri Apr 23 17:18:34 EEST 2021
-Started pomadoro  ePort How add/del FDB entry #1  ... wait 25 minutes
-Pomadoro action ePort How add/del FDB entry #1 finished
+Started pomodoro  ePort How add/del FDB entry #1  ... wait 25 minutes
+Pomodoro action ePort How add/del FDB entry #1 finished
 
 Fri Apr 23 17:48:44 EEST 2021
-Started pomadoro  ePort How add/del FDB entry #2  ... wait 25 minutes
-Pomadoro action ePort How add/del FDB entry #2 finished
+Started pomodoro  ePort How add/del FDB entry #2  ... wait 25 minutes
+Pomodoro action ePort How add/del FDB entry #2 finished
 
 Fri Apr 23 18:13:56 EEST 2021
-Started pomadoro  ePort How add/del FDB entry #3  ... wait 25 minutes
-Pomadoro action ePort How add/del FDB entry #3 finished
+Started pomodoro  ePort How add/del FDB entry #3  ... wait 25 minutes
+Pomodoro action ePort How add/del FDB entry #3 finished
 
 Fri Apr 23 19:15:44 EEST 2021
-Started pomadoro  ePort How add/del FDB entry #4  ... wait 25 minutes
-Pomadoro action ePort How add/del FDB entry #4 finished
+Started pomodoro  ePort How add/del FDB entry #4  ... wait 25 minutes
+Pomodoro action ePort How add/del FDB entry #4 finished
 
 Fri Apr 23 19:40:55 EEST 2021
-Started pomadoro  ePort How add/del FDB entry #5  ... wait 25 minutes
-Pomadoro action ePort How add/del FDB entry #5 finished
+Started pomodoro  ePort How add/del FDB entry #5  ... wait 25 minutes
+Pomodoro action ePort How add/del FDB entry #5 finished
 
 === Apr 25 ===
 
 Sun Apr 25 13:24:41 EEST 2021
-Started pomadoro  mac learning: planning #1  ... wait 25 minutes
-Pomadoro action mac learning: planning #1 finished
+Started pomodoro  mac learning: planning #1  ... wait 25 minutes
+Pomodoro action mac learning: planning #1 finished
 
 Sun Apr 25 14:06:53 EEST 2021
-Started pomadoro  mac learning: planning #2  ... wait 25 minutes
-Pomadoro action mac learning: planning #2 finished
+Started pomodoro  mac learning: planning #2  ... wait 25 minutes
+Pomodoro action mac learning: planning #2 finished
 
 Sun Apr 25 15:54:56 EEST 2021
-Started pomadoro  ePort  Add/del FDB entry #1  ... wait 25 minutes
-Pomadoro action ePort  Add/del FDB entry #1 finished
+Started pomodoro  ePort  Add/del FDB entry #1  ... wait 25 minutes
+Pomodoro action ePort  Add/del FDB entry #1 finished
 
 Sun Apr 25 17:53:06 EEST 2021
-Started pomadoro  eng: Sopranos S02E10 #1  ... wait 25 minutes
-Pomadoro action eng: Sopranos S02E10 #1 finished
+Started pomodoro  eng: Sopranos S02E10 #1  ... wait 25 minutes
+Pomodoro action eng: Sopranos S02E10 #1 finished
 
 Sun Apr 25 18:19:12 EEST 2021
-Started pomadoro  Eng: Sopranos S02E11 #1  ... wait 25 minutes
-Pomadoro action Eng: Sopranos S02E11 #1 finished
+Started pomodoro  Eng: Sopranos S02E11 #1  ... wait 25 minutes
+Pomodoro action Eng: Sopranos S02E11 #1 finished
 
 Sun Apr 25 18:45:50 EEST 2021
-Started pomadoro  Eng: Sopranos S02E11 #2  ... wait 25 minutes
-Pomadoro action Eng: Sopranos S02E11 #2 finished
+Started pomodoro  Eng: Sopranos S02E11 #2  ... wait 25 minutes
+Pomodoro action Eng: Sopranos S02E11 #2 finished
 
 Sun Apr 25 22:17:24 EEST 2021
-Started pomadoro  Eng: Sopranos S02E12 #1  ... wait 25 minutes
-Pomadoro action Eng: Sopranos S02E12 #1 finished
+Started pomodoro  Eng: Sopranos S02E12 #1  ... wait 25 minutes
+Pomodoro action Eng: Sopranos S02E12 #1 finished
 
 Sun Apr 25 23:12:05 EEST 2021
-Started pomadoro  Read about hash table #1  ... wait 25 minutes
-Pomadoro action Read about hash table #1 finished
+Started pomodoro  Read about hash table #1  ... wait 25 minutes
+Pomodoro action Read about hash table #1 finished
 
 Sun Apr 25 23:37:26 EEST 2021
-Started pomadoro  Read about hash table #2  ... wait 25 minutes
-Pomadoro action Read about hash table #2 finished
+Started pomodoro  Read about hash table #2  ... wait 25 minutes
+Pomodoro action Read about hash table #2 finished
 
 Mon Apr 26 00:46:32 EEST 2021
-Started pomadoro  Add vxlan functions that call from mac_tbl  ... wait 25 minutes
-Pomadoro action Add vxlan functions that call from mac_tbl finished
+Started pomodoro  Add vxlan functions that call from mac_tbl  ... wait 25 minutes
+Pomodoro action Add vxlan functions that call from mac_tbl finished
 
 === Apr 26 ===
 
 Mon Apr 26 12:10:12 EEST 2021
-Started pomadoro  Commit code to osotn branch #1  ... wait 25 minutes
-Pomadoro action Commit code to osotn branch #1 finished
+Started pomodoro  Commit code to osotn branch #1  ... wait 25 minutes
+Pomodoro action Commit code to osotn branch #1 finished
 
 Mon Apr 26 12:35:28 EEST 2021
-Started pomadoro  Commit code to osotn branch #2  ... wait 25 minutes
-Pomadoro action Commit code to osotn branch #2 finished
+Started pomodoro  Commit code to osotn branch #2  ... wait 25 minutes
+Pomodoro action Commit code to osotn branch #2 finished
 
 Mon Apr 26 13:00:41 EEST 2021
-Started pomadoro  Commit code to osotn branch #3  ... wait 25 minutes
-Pomadoro action Commit code to osotn branch #3 finished
+Started pomodoro  Commit code to osotn branch #3  ... wait 25 minutes
+Pomodoro action Commit code to osotn branch #3 finished
 
 Mon Apr 26 15:07:14 EEST 2021
-Started pomadoro  Status update for AA  ... wait 25 minutes
-Pomadoro action Status update for AA finished
+Started pomodoro  Status update for AA  ... wait 25 minutes
+Pomodoro action Status update for AA finished
 
 Mon Apr 26 16:43:29 EEST 2021
-Started pomadoro  Hash table for mac table #1  ... wait 25 minutes
-Pomadoro action Hash table for mac table #1 finished
+Started pomodoro  Hash table for mac table #1  ... wait 25 minutes
+Pomodoro action Hash table for mac table #1 finished
 
 Mon Apr 26 17:09:02 EEST 2021
-Started pomadoro  Hash table for mac table #2  ... wait 25 minutes
-Pomadoro action Hash table for mac table #2 finished
+Started pomodoro  Hash table for mac table #2  ... wait 25 minutes
+Pomodoro action Hash table for mac table #2 finished
 
 Mon Apr 26 17:34:10 EEST 2021
-Started pomadoro  Hash table for mac table #3  ... wait 25 minutes
-Pomadoro action Hash table for mac table #3 finished
+Started pomodoro  Hash table for mac table #3  ... wait 25 minutes
+Pomodoro action Hash table for mac table #3 finished
 
 Mon Apr 26 17:59:18 EEST 2021
-Started pomadoro  Hash table for mac table #4  ... wait 25 minutes
-Pomadoro action Hash table for mac table #4 finished
+Started pomodoro  Hash table for mac table #4  ... wait 25 minutes
+Pomodoro action Hash table for mac table #4 finished
 
 === Apr 27 ===
 
@@ -161,3 +161,62 @@ Started pomodoro  Planning mac learning #1  ... wait 25 minutes
 Wed Apr 28 13:07:43 EEST 2021
 Started pomodoro  Planning mac learning #2  ... wait 25 minutes
 !!!<--Interrupted on Wed Apr 28 13:10:43 EEST 2021                  3 mins
+
+Wed Apr 28 15:26:32 EEST 2021
+Started pomodoro  NNI try to check mac learning  ... wait 25 minutes
+Pomodoro NNI try to check mac learning finished
+
+
+- meeting 15:30 - 17:00  ~ 3 pomodora
+
+Wed Apr 28 17:38:10 EEST 2021
+Started pomodoro  Rebase on vxlan_dev_2.6 branch, how it works #1  ... wait 25 minutes
+Pomodoro Rebase on vxlan_dev_2.6 branch, how it works #1 finished
+
+Wed Apr 28 18:03:25 EEST 2021
+Started pomodoro  Rebase on vxlan_dev_2.6 branch, how it works #2  ... wait 25 minutes
+Pomodoro Rebase on vxlan_dev_2.6 branch, how it works #2 finished
+
+Wed Apr 28 18:28:35 EEST 2021
+Started pomodoro  Rebase on vxlan_dev_2.6 branch, how it works #3  ... wait 25 minutes
+Pomodoro Rebase on vxlan_dev_2.6 branch, how it works #3 finished
+
+Wed Apr 28 18:53:43 EEST 2021
+Started pomodoro  Rebase on vxlan_dev_2.6 branch, how it works #4  ... wait 25 minutes
+Pomodoro Rebase on vxlan_dev_2.6 branch, how it works #4 finished
+
+Wed Apr 28 19:18:53 EEST 2021
+Started pomodoro  Rebase on vxlan_dev_2.6 branch, how it works #5  ... wait 25 minutes
+Pomodoro Rebase on vxlan_dev_2.6 branch, how it works #5 finished
+
+Wed Apr 28 19:44:12 EEST 2021
+Started pomodoro  Rebase on vxlan_dev_2.6 branch, how it works #6  ... wait 25 minutes
+Pomodoro Rebase on vxlan_dev_2.6 branch, how it works #6 finished
+
+- move to nt_vxlan_mac_tbl.c file ==> 1h ~  2 pomodoro
+
+- task ~ 1 pomodor 
+
+=== 29 Apr ===
+
+
+- commit task ~ 1 pomodor
+- meeting with Sergey ~ 1 pomodor
+
+
+
+Thu Apr 29 16:06:56 EEST 2021
+Started pomodoro  Pipes send/recv test #1  ... wait 25 minutes
+Pomodoro Pipes send/recv test #1 finished
+
+Thu Apr 29 16:32:09 EEST 2021
+Started pomodoro  Pipes send/recv test #2  ... wait 25 minutes
+Pomodoro Pipes send/recv test #2 finished
+
+Thu Apr 29 16:57:21 EEST 2021
+Started pomodoro  Pipes send/recv test #3  ... wait 25 minutes
+Pomodoro Pipes send/recv test #3 finished
+
+Thu Apr 29 17:22:28 EEST 2021
+Started pomodoro  Pipes send/recv test #4  ... wait 25 minutes
+Pomodoro Pipes send/recv test #4 finished
